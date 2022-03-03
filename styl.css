@@ -1,0 +1,25 @@
+.box{
+    margin-top:2%;
+    width: 50%;
+    background-color: darkslategray;
+    height: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15%;
+    box-shadow: 0em 0em 5em 1em;
+}
+body{
+    background-image: url(grafika/background.jpg);
+}
+.form{
+    position: relative;
+    margin-left: 40%;
+    padding-top:20%;
+
+    
+}
+h1{
+    text-align:center;
+    color:yellow;
+}
+
